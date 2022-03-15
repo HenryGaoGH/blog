@@ -1,0 +1,1 @@
+const e={key:"v-2b463433",path:"/resume.html",title:"Resume",lang:"zh-CN",frontmatter:{title:"Resume",description:"\u8FD9\u662F\u6211\u7684\u7B80\u5386"},excerpt:"",headers:[],git:{},filePathRelative:"resume.md"};export{e as data};
