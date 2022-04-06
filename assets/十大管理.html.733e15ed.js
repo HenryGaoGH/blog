@@ -1,0 +1,1 @@
+import{o as _,c as r}from"./app.ab95c429.js";import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";var o="/blog/images/\u5341\u5927\u7BA1\u7406.png";const t={},c={src:o};function s(a,n){return _(),r("img",c)}var f=e(t,[["render",s]]);export{f as default};
