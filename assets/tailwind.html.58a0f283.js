@@ -1,1 +1,0 @@
-const t={key:"v-02e3a62d",path:"/web/tailwind.html",title:"Tailwind CSS",lang:"zh-CN",frontmatter:{title:"Tailwind CSS",description:"TailWind Css \u5C31\u662F\u5C4C\u54E6"},excerpt:"",headers:[],git:{},filePathRelative:"web/tailwind.md"};export{t as data};

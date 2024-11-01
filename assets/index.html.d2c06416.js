@@ -1,1 +1,0 @@
-const t={key:"v-99e61298",path:"/mobile/",title:"\u79FB\u52A8\u7AEF\u7684\u77E5\u8BC6",lang:"zh-CN",frontmatter:{title:"\u79FB\u52A8\u7AEF\u7684\u77E5\u8BC6",description:"\u5B89\u5353\u3001iOS\u3001Flutter\u7684\u76F8\u5173\u77E5\u8BC6"},excerpt:"",headers:[],git:{},filePathRelative:"mobile/README.md"};export{t as data};

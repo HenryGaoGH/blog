@@ -1,1 +1,0 @@
-const e={key:"v-d6cad9b0",path:"/web/vuepress.html",title:"\u9759\u6001\u7F51\u7AD9\u58F0\u79F0",lang:"zh-CN",frontmatter:{title:"\u9759\u6001\u7F51\u7AD9\u58F0\u79F0",description:"Vuepress \u77E5\u8BC6"},excerpt:"",headers:[],git:{},filePathRelative:"web/vuepress.md"};export{e as data};
